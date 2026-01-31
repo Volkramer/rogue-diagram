@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://b5ip6qtewr6dr"]
+
+[ext_resource type="Script" uid="uid://caqvhrlt7un0h" path="res://scripts/Cell.cs" id="1_upbjj"]
+
+[node name="Cell" type="Node2D"]
+script = ExtResource("1_upbjj")

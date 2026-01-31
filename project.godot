@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="RogueDiagram"
+run/main_scene="uid://dc1s23d5smo4k"
 config/features=PackedStringArray("4.5", "C#", "GL Compatibility")
 config/icon="res://assets/images/icon.svg"
 
